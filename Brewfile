@@ -1,0 +1,5 @@
+brew "lazygit"
+brew "thefuck"
+brew "tmux"
+brew "fzf"
+brew "magic-wormhole"
