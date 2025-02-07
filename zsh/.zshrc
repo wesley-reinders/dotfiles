@@ -121,6 +121,7 @@ source $ZSH/oh-my-zsh.sh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 eval $(thefuck --alias)
+eval "$(rbenv init - --no-rehash zsh)"
 
 
 export NVM_DIR="$HOME/.nvm"
@@ -129,3 +130,6 @@ export NVM_DIR="$HOME/.nvm"
 
 # Created by `pipx` on 2024-11-03 00:09:45
 export PATH="$PATH:/Users/wesley/.local/bin"
+
+# Added by LM Studio CLI (lms)
+export PATH="$PATH:/Users/wesley/.lmstudio/bin"
