@@ -1,0 +1,58 @@
+{
+  "editor.accessibilitySupport": "off",
+  "terminal.integrated.env.osx": {
+    "Q_NEW_SESSION": "1"
+  },
+  "workbench.colorTheme": "Hiberbee",
+  "editor.fontSize": 14,
+  "window.zoomLevel": 0.2,
+  "editor.fontLigatures": false,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorCustomizations": {
+    "list.hoverBackground": "#535353",
+    "list.activeSelectionBackground": "#fff",
+    "list.activeSelectionForeground": "#000",
+    "list.inactiveSelectionForeground": "#fff",
+    "list.inactiveSelectionBackground": "#060044",
+  },
+  "i18nJsonEditor.supportedFolders": [
+    "lang",
+    "locales",
+    "i18n"
+  ],
+  "editor.wordWrap": "on",
+
+  "files.autoSave": "off",
+  "files.autoSaveDelay": 1000,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "diffEditor.renderSideBySide": true,
+  "editor.minimap.enabled": false,
+  "workbench.activityBar.location": "top",
+  "editor.fontFamily": "Hack Nerd Font",
+  "terminal.integrated.fontFamily": "Hack Nerd Font",
+  "editor.snippetSuggestions": "top",
+  "gitlens.views.commitDetails.files.layout": "tree",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "php.debug.ideKey": "VSCODE",
+  "php.debug.executablePath": "/opt/homebrew/bin/php",
+  "window.newWindowDimensions": "inherit",
+  "editor.rulers": [
+
+  ],
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "typescript.experimental.expandableHover": true,
+  "LaravelExtraIntellisense.disableErrorAlert": true,
+
+  "github.copilot.advanced": {
+    "debug.testOverrideProxyUrl": "http://localhost:1234",
+    "debug.overrideProxyUrl": "http://localhost:1234"
+},
+"restoreGitBranchTabs.newBranchPreserveTabs": true,
+"[javascript]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
+}
