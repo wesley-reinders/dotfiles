@@ -1,5 +1,7 @@
 brew "lazygit"
+brew "lazydocker"
 brew "thefuck"
 brew "tmux"
 brew "fzf"
 brew "magic-wormhole"
+brew "rbenv"
